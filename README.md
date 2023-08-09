@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerearth.com/@md_shamim_ahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/md_shamim_ahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 </p>
-<a href="frolicking-mochi-0a452b.netlify.app/" target="blank"> <img src="https://images.weserv.nl/?url=kindpng.com/picc/m/394-3941580_portfolio-circle-hd-png-download.png?v=4&h=100&fit=outside" alt=""/> </a>
+<a href="https://frolicking-mochi-0a452b.netlify.app/" target="blank"> <img src="https://images.weserv.nl/?url=kindpng.com/picc/m/394-3941580_portfolio-circle-hd-png-download.png?v=4&h=100&fit=outside" alt=""/> </a>
