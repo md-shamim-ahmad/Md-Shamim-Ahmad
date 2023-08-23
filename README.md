@@ -2,13 +2,13 @@
 ### Assalamu’alaikum warahmatullahi wabarakatuh
 ### Hi there 👋
 
-###### Me Md Shamim Ahmeed.</br>And I am a student of Computer Science and Engineering Department.<br>I love Programming.
+###### Me Md Shamim Ahmad.</br>And I am a student of Computer Science and Engineering Department.<br>I love Programming.
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=Md-Shamim-Ahmmed) -->
 
 <!--
-**Md-Shamim-Ahmmed/Md-Shamim-Ahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Md-Shamim-Ahmad/Md-Shamim-Ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <br>
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Shamim-Ahmmed&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Shamim-Ahmmed&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Shamim-Ahmad&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Shamim-Ahmad&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
 </p>
 
 
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Shamim-Ahmmed)-->
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Shamim-Ahmad)-->
 
 
 <b>&#128200; Competitive Programming</b>
