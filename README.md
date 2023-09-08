@@ -45,11 +45,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/shamim.ahmmed.744238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.ahmmed.744238" height="30" width="40" /></a>
+<a href="https://fb.com/shamim.ahmad.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamim.ahmmed.744238" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cppi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cppi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/md_shamim_ahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/md_shamim_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@md_shamim_ahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/md_shamim_ahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="md_shamim_ahmmed" height="30" width="40" /></a>
 </p>
-<a href="https://frolicking-mochi-0a452b.netlify.app/" target="blank"> <img src="https://images.weserv.nl/?url=kindpng.com/picc/m/394-3941580_portfolio-circle-hd-png-download.png?v=4&h=100&fit=outside" alt=""/> </a>
+
+<br>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://frolicking-mochi-0a452b.netlify.app)
+
